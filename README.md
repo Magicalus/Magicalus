@@ -1,1 +1,5 @@
-Hi there! My name is Zack, and I'm an idiot who can only code with snakes and coffee-soaked paper.
+Currently a high school student, working on building my code skills before being thrust into the real world!
+My current languages are:
+Coffee
+Coffee Soaked Paper
+Snakes
